@@ -42,6 +42,7 @@ The features’ labels, listed above were converted to more human-readable versi
 - replace “f” with “Frequency”
 - replace “Gyro” with “Gyroscope”
 - replace “Acc” with “Accelerometer”
+- replace "Mag" with "Magnitude"
 
 
 
